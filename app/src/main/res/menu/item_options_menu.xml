@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_option"
+        android:title="Supprimer" />
+    <item
+        android:id="@+id/update_option"
+        android:title="Mettre à jour" />
+    <item
+        android:id="@+id/details_option"
+        android:title="Détails" />
+</menu>

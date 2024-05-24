@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493255727866",
+    "project_id": "gestion-de-taches-78313",
+    "storage_bucket": "gestion-de-taches-78313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493255727866:android:fa2c617029f14a150e4743",
+        "android_client_info": {
+          "package_name": "com.example.list_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoR5pTf6AadHE4mOManTivQlL8Pqe9V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493255727866:android:a26ed9cc10208f450e4743",
+        "android_client_info": {
+          "package_name": "com.example.task_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoR5pTf6AadHE4mOManTivQlL8Pqe9V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
