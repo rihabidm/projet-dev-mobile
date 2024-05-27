@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "493255727866",
-    "project_id": "gestion-de-taches-78313",
-    "storage_bucket": "gestion-de-taches-78313.appspot.com"
+    "project_number": "404849083530",
+    "project_id": "smartmahsoul12",
+    "storage_bucket": "smartmahsoul12.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:493255727866:android:fa2c617029f14a150e4743",
-        "android_client_info": {
-          "package_name": "com.example.list_it"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAhoR5pTf6AadHE4mOManTivQlL8Pqe9V4"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:493255727866:android:a26ed9cc10208f450e4743",
+        "mobilesdk_app_id": "1:404849083530:android:a8a07da0e5b36a3adc1973",
         "android_client_info": {
           "package_name": "com.example.task_it"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAhoR5pTf6AadHE4mOManTivQlL8Pqe9V4"
+          "current_key": "AIzaSyAloXL7gsgq4estsGi2QN90JCdI8gnEv0I"
         }
       ],
       "services": {

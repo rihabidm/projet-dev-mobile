@@ -11,7 +11,7 @@
         android:id="@+id/imageview"
         android:layout_marginRight="10dp"
         android:layout_centerVertical="true"
-        android:src="@drawable/welcome_img"
+        android:src="@drawable/falah"
         />
 
     <TextView

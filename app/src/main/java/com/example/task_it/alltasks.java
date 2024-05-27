@@ -49,7 +49,6 @@ public class alltasks extends AppCompatActivity implements TaskInterface {
     Toolbar toolbar;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -157,7 +156,6 @@ public class alltasks extends AppCompatActivity implements TaskInterface {
                         }
                         recyclerView.setLayoutManager(new LinearLayoutManager(this));
                         recyclerView.setAdapter(new TaskAdapter(getApplicationContext(), taskList, this));
-
                     });
 
 

@@ -12,7 +12,7 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="90dp"
-            android:background="@color/rose"
+            android:background="#09752B"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 
@@ -126,7 +126,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/Password"
             android:layout_centerHorizontal="true"
-            android:backgroundTint="@color/rose"
+            android:backgroundTint="#09752B"
             android:layout_marginTop="32dp"
             android:text="Enregistrer les modifications" />
 

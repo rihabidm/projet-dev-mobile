@@ -19,7 +19,7 @@
         android:layout_height="150dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="32dp"
-        android:src="@drawable/welcome_img"
+        android:src="@drawable/falah"
         tools:ignore="MissingClass" />
 
     <EditText
