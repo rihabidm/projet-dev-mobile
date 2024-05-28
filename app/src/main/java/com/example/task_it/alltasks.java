@@ -178,7 +178,6 @@ public class alltasks extends AppCompatActivity implements TaskInterface {
         /////////LOGOUT////
         if(id == R.id.logout){
             FirebaseAuth.getInstance().signOut();
-
             Intent intent = new Intent(getApplicationContext(), Login.class);
             startActivity(intent);
             finish();

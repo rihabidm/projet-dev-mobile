@@ -27,18 +27,8 @@ public class HomeFragment extends Fragment {
 
         binding = FragmentHomeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
-        final Button btnLogout = binding.logout;
-        btnLogout.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                FirebaseAuth.getInstance().signOut();
 
-                Intent intent = new Intent(getActivity(), Login.class);
-                startActivity(intent);
-                getActivity().finish();
-            }
-        });
-        final TextView textView = binding.textHome;
+        final TextView textView = binding.locationText;
         homeViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
 
